@@ -1,0 +1,291 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Ragged, and torne, and true. Or, The poore mans resoltion [sic], to the tune of Old Simon the King.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1628-1629?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00594</idno>
+            <idno type="STC">STC 20602.5</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[352]</idno>
+            <idno type="EEBO-CITATION">99884402</idno>
+            <idno type="PROQUEST">ocm99884402</idno>
+            <idno type="VID">183102</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00594)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183102)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[186])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Ragged, and torne, and true. Or, The poore mans resoltion [sic], to the tune of Old Simon the King.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed by the assignes of Thomas Symcocke,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1628 or 9]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "I am a poore man, God knowes ..."</note>
+                  <note>Place and date of publication suggested by STC.</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="352" facs="tcp:183102:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <head>Ragged, and Torne, and True.</head>
+            <head type="sub">Or<g ref="char:punc">▪</g> the poore mans Reſoltion,</head>
+            <opener>To the tune of <hi>Old Simon the King.</hi>
+            </opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>I Am a poore man, God knowes,</l>
+                  <l>and all my neighbours can tell.</l>
+                  <l>I want both money and clothes,</l>
+                  <l>and yet I liue wondrous well:</l>
+                  <l>I haue a contented mind,</l>
+                  <l>and a heart to beare out all,</l>
+                  <l>Though Fortune (being vnkind)</l>
+                  <l>hath giuen me ſubſtance ſmall.</l>
+                  <l>Then hang up ſorrow and care,</l>
+                  <l>it neuer ſhall make me rue:</l>
+                  <l>What though my backe goes bare?</l>
+                  <lg type="refrain">
+                     <l>I'me ragged, and torne, and true.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I ſcorne to liue by the ſhift,</l>
+                  <l>or by any ſiniſter dealing.</l>
+                  <l>Ile flatter no man for a gift,</l>
+                  <l>nor will I get money by ſtealing.</l>
+                  <l>Ile be no Knight of the Poſt;</l>
+                  <l>to ſell my ſoule for a bribe,</l>
+                  <l>Though all my fortunes be croſt,</l>
+                  <l>yet I ſcorne the Cheaters tribe.</l>
+                  <l>Then hang vp ſorrow and care,</l>
+                  <l>it neuer ſhall make me rue,</l>
+                  <l>What though my cloake be thred-bare,</l>
+                  <lg type="refrain">
+                     <l>Ime ragged, and torne, and true.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>A Boote of Spaniſh leather.</l>
+                  <l>I haue ſeene ſet faſt in the ſtockes,</l>
+                  <l>Expoſed to wind and weather,</l>
+                  <l>and foule reproach and mocke<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</l>
+                  <l>While I in my poore ragges,</l>
+                  <l>can paſſe at liberty ſtill:</l>
+                  <l>O fie on theſe brawling bragges,</l>
+                  <l>when the money is gotten ſo ill.</l>
+                  <l>O fie on theſe pelfering knaues,</l>
+                  <l>I ſcorne to be of that crue.</l>
+                  <l>They ſteale to make themſelues braue,</l>
+                  <lg type="refrain">
+                     <l>Ime ragged, and torne, and true.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I haue ſeene a Gallant goe by,</l>
+                  <l>woth all his wealth on his backe,</l>
+                  <l>He lookt as loftily,</l>
+                  <l>as one that did nothing lacke,</l>
+                  <l>And yet he hath no meanes,</l>
+                  <l>but what he gets by the ſword,</l>
+                  <l>Which he conſume on Queanes,</l>
+                  <l>for it thriues not take my word:</l>
+                  <l>Oh fie on theſe high-way theeues,</l>
+                  <l>the Gallowes will be then due:</l>
+                  <l>Though my doublet be rent ith ſleeues</l>
+                  <lg type="refrain">
+                     <l>Ime ragged, and torne, and true.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <pb n="353" facs="tcp:183102:1"/>
+               <!-- PDF PAGE 2 -->
+               <head>The Second Part.</head>
+               <opener>To the Same Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>SOme do themſelues maintaine,</l>
+                  <l>with playing at cardes and Dice,</l>
+                  <l>O fie on that lawleſſe gaine,</l>
+                  <l>got by ſuch wicked vice:</l>
+                  <l>They coozen poore Countrey-men,</l>
+                  <l>with their deluſions vilde,</l>
+                  <l>Yet it happens now and then,</l>
+                  <l>that they are themſelues beguilde:</l>
+                  <l>For if they be caught in a ſnare,</l>
+                  <l>then the Pillery clames its due,</l>
+                  <l>Though my Ierkin be worne and bare</l>
+                  <lg type="refrain">
+                     <l>Ime ragged, and torne, and true.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>I haue ſeene ſome gallants braue,</l>
+                  <l>vp <hi>Holborne</hi> ride in a Cart,</l>
+                  <l>Which ſight much ſorrow gaue</l>
+                  <l>to euery tender heart:</l>
+                  <l>Then haue I ſaid to my ſelfe,</l>
+                  <l>what pity is it for this,</l>
+                  <l>That any man for pelfe,</l>
+                  <l>ſhould do ſuch a foule amiſſe:</l>
+                  <l>O fie on deceit and theft,</l>
+                  <l>it makes men at the laſt rue,</l>
+                  <l>Though I haue but little left,</l>
+                  <lg type="refrain">
+                     <l>Ime ragged, and torne, and true.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Pick-pockets in a throng,</l>
+                  <l>at a Market or a Faire.</l>
+                  <l>Will try whoſe purſe is ſtrong</l>
+                  <l>that they may the money ſhare:</l>
+                  <l>But if they are caught ith action,</l>
+                  <l>they are carried away in diſgrace.</l>
+                  <l>Either to the houſe of Correction,</l>
+                  <l>or elſe to a worſer place:</l>
+                  <l>O fie on theſe pelfering Theeues,</l>
+                  <l>the Gallowes will be their due,</l>
+                  <l>What need I ſuee for a repreeue<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <lg type="refrain">
+                     <l>Ime ragged, and torne, and true.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The Hoſtler, to maintaine</l>
+                  <l>himſelfe with money ins purſe,</l>
+                  <l>Approues the Prouerbe true,</l>
+                  <l>and ſayes Gramercy Horſe:</l>
+                  <l>He robs the trauelling beaſt,</l>
+                  <l>that cannot divulge his ill,</l>
+                  <l>He ſteales a whole handfull at leaſt,</l>
+                  <l>from euery halfe peck he ſhould fill,</l>
+                  <l>O fie on thoſe coozening ſcabs,</l>
+                  <l>that rob the poore Iades of their due</l>
+                  <l>I ſcorne all theeues and Drabs:</l>
+                  <lg type="refrain">
+                     <l>Ime ragged, and torne, and true.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Tis good to be honeſt and iuſt,</l>
+                  <l>though a man be neuer ſo poore,</l>
+                  <l>Falſe dealers are ſtill in miſtruſt,</l>
+                  <l>thare afraid of the officers doore:</l>
+                  <l>Their conſcience doth them accuſe</l>
+                  <l>and the quake at the noiſe of a buſh:</l>
+                  <l>While he chat doth no man abuſe,</l>
+                  <l>For the <gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aw needs nat care a ruſh,</l>
+                  <l>Then welfare the man that can ſay,</l>
+                  <l>I pay euery man his due,</l>
+                  <l>Although I go poore in aray,</l>
+                  <lg type="refrain">
+                     <l>Ime ragged, and torne, and true.</l>
+                  </lg>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed by the Aſſignes of Thomas Symcocke.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
